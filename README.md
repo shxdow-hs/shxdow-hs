@@ -3,7 +3,7 @@
 <h2> IT/Cybersecurity Projects </h2>
 
 - <b>Active Directory</b>
-  - [Configuring Active Directory Complete with Users]()
+  - [Configuring Active Directory Complete with Users](https://github.com/shxdow-hs/ActiveDirectoryLab)
 - <b>Vulnerability Management</b>
   - [Nessus Configuration and Tutorial]()
 - <b>Computer Forensics</b>
@@ -16,7 +16,7 @@
 
 <h2> Connect with me :) </h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BraydenLawrence | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/brayden-lawrence/

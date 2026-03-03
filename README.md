@@ -3,7 +3,7 @@
 <h2> IT/Cybersecurity Projects </h2>
 
 - <b>Active Directory</b>
-  - [Configuring Active Directory Complete with Users](https://github.com/shxdow-hs/ActiveDirectoryLab)
+  - [Configuring Active Directory Complete with Users and Computers](https://github.com/shxdow-hs/ActiveDirectoryLab)
 - <b>Microsoft Entra ID (Azure AD)</b>
   - [Onboarding Accounts, RBAC and Secure Offboarding](https://github.com/shxdow-hs/MicrosoftEntraIDLab)
 - <b>Computer Forensics</b>

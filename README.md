@@ -4,10 +4,10 @@
 
 - <b>Active Directory</b>
   - [Configuring Active Directory Complete with Users](https://github.com/shxdow-hs/ActiveDirectoryLab)
-- <b>Vulnerability Management</b>
-  - [Nessus Configuration and Tutorial]()
+- <b>Microsoft Entra ID (Azure AD)</b>
+  - [Onboarding Accounts, RBAC and Secure Offboarding](https://github.com/shxdow-hs/MicrosoftEntraIDLab)
 - <b>Computer Forensics</b>
-  - [Placeholder]()
+  - [Nessus Configuration and Tutorial]()
 - <b>Python</b>
   - [Placeholder]()
 

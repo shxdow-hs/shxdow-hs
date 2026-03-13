@@ -6,10 +6,11 @@
   - [Configuring Active Directory Complete with Users and Computers](https://github.com/shxdow-hs/ActiveDirectoryLab)
 - <b>Microsoft Entra ID (Azure AD)</b>
   - [Onboarding Accounts, RBAC and Secure Offboarding](https://github.com/shxdow-hs/MicrosoftEntraIDLab)
-- <b>Computer Forensics</b>
-  - [Nessus Configuration and Tutorial]()
-- <b>Python</b>
+- <b>Okta Federation with Microsoft Entra ID (Coming Soon)</b>
   - [Placeholder]()
+- <b>Vulnerability Management (Coming Soon)</b>
+  - [Nessus Configuration and Tutorial]()
+
 
 
 <h2> Certifications </h2>
